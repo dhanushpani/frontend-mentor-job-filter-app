@@ -32,7 +32,7 @@ const Card = ({ data, filtered, setFiltered }) => {
               </p>
             )}
           </div>
-          <p className="text-xl font-semibold text-primary mt-4">
+          <p className="text-xl font-semibold text-black mt-4">
             {data.position}
           </p>
           <div className="flex">
